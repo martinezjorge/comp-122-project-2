@@ -1,0 +1,17 @@
+Write an ARM program in ARMSim# that will do the following:
+
+    Read the text from a file called "input.txt" as a string of characters
+    Uppercase every consonant
+    Replace all vowels with an asterisk (*)
+    Output the new string from memory to a file called "output.txt"
+    For example:
+        "input.txt" contains "Blind love couldn't win as the facts all came in. But I know I'll again chase after wind. What have I got if not a thought?"
+        "output.txt" should contain "BL*ND L*V* C**LDN'T W*N *S TH* F*CTS *LL CAME *N. B*T * KN*W *'LL *G**N CH*S* *FT*R W*ND. WH*T H*V* * G*T *F N*T * TH**GHT?"
+
+Meeting the above requirements is a bare minimum for the assignment. In order to get full credit, your program should:
+
+    have appropriate comments
+    check for errors
+    have a readable output
+
+Please submit a single file called "project2.s" to the assignment.
